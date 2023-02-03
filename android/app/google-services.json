@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367905998703",
+    "project_id": "sepuhapp",
+    "storage_bucket": "sepuhapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367905998703:android:fec57d122e904c3b598a9a",
+        "android_client_info": {
+          "package_name": "com.example.sepuhapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367905998703-52ospr3bq4900a8pos1898nghksep62d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvsaayu6X6WPtzxlYDsrmElB4IUqPJX8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367905998703-52ospr3bq4900a8pos1898nghksep62d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
